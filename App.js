@@ -77,18 +77,3 @@ const styles = StyleSheet.create({
     flex: 5,
   },
 });
-// This hotel has a new view of the citycenter. The location is perfect.
-
-// The breakfast is ok. Regarding the location, it is quite far from the citycenter but price is cheap so it is worth.
-
-// Location is excellent, 5 minutes from citycenter. There is also a metro station very close to the hotel.
-
-// They said I couldn't take my dog and there were other guests with dogs! That is not fair.
-
-// Very friendly staff and good cost-benefit ratio. ITs location is a bit far from the citycenter
-
-let greet = "Hello World";
-
-function greetings(name) {
-  greet = `Hello ${name}`;
-}
