@@ -86,3 +86,9 @@ const styles = StyleSheet.create({
 // They said I couldn't take my dog and there were other guests with dogs! That is not fair.
 
 // Very friendly staff and good cost-benefit ratio. ITs location is a bit far from the citycenter
+
+let greet = "Hello World";
+
+function greetings(name) {
+  greet = `Hello ${name}`;
+}
